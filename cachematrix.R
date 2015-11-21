@@ -1,6 +1,6 @@
 ## makeCacheMatrix function takes as an argument a square matrix
 ## and returns a list of four functions, that set/get a matrix and
-## set/get its inverse. This function is given as an argument to
+## set/get its inverse. This list is given as an argument to
 ## cacheSolve function, which returns the inverse Matrix set 
 ## by the first function. If the iverse Matrix is already set then
 ## it doesn't calculate it's value again, but it takes it from the cache.
